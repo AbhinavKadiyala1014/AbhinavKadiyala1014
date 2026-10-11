@@ -29,7 +29,7 @@ I enjoy solving problems, learning new technologies, and building software that 
 
 ## 🤝 Connect With Me
 
-📧 **Email:** [kadiyalabhinav@gmail.com](mailto:kadiyalabhinav@gmail.com)
+📧 **Email:** <a href="mailto:kadiyalabhinav@gmail.com">kadiyalabhinav@gmail.com</a>
 
 📱 **Phone:** [+91 9494398299](tel:+919494398299)
 
