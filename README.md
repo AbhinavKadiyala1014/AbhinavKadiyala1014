@@ -29,8 +29,13 @@ I enjoy solving problems, learning new technologies, and building software that 
 
 ## 🤝 Connect With Me
 
-[GitHub](https://github.com/AbhinavKadiyala1014)
+📧 **Email:** [kadiyalabhinav@gmail.com](mailto:kadiyalabhinav@gmail.com)
+
+📱 **Phone:** [+91 9494398299](tel:+919494398299)
+
+💼 **LinkedIn:** [Abhinav Kadiyala](https://www.linkedin.com/in/abhinav-kadiyala-1014p/)
 
 ---
 
+*Feel free to connect with me to discuss technology, software development, and collaboration!*
 *Learn. Build. Solve. Repeat.*
